@@ -1,15 +1,13 @@
 <h1 align="center">Good day✨, I am Gianluca Gallone</h1>
-<h3 align="center">A tech-passionate Junior Full-Stack Developer from Italy</h3>
+<h3 align="center">A tech-passionate Full Stack Engineer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gi-ga-dev&label=Profile%20views&color=ffc21a&style=flat" alt="gi-ga-dev" /> </p>
 
-- 🌱 I’m currently learning **Angular and Java**
+- 🌱 I’m currently into **Angular and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gi-ga-dev](https://github.com/gi-ga-dev)
 
 - 📫 How to reach me **cloud.gianluca@gmail.com**
-
-- 💖 In love with **👨‍💻Coding, 🎮Gaming, 🐕Animals and 🦸‍♀️My Wife**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
